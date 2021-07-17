@@ -1,5 +1,6 @@
 #include <myfile.h>
 
 int main(int argc, char* argv) {
-    return 0;
+    int res = sum(1, 2);
+    return res;
 }
