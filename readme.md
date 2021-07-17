@@ -8,4 +8,4 @@ We create tech content, x-y
 
 Created on 17Jul2021 by DS
 
-es yiyis
+es yiyis, no es yiya
