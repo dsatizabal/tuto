@@ -1,6 +1,7 @@
 /******
- * Functions file
+ * Code file
 *****/
+
 #include <myfile.h>
 
 int main(int argc, char* argv) {
