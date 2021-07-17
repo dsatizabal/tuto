@@ -7,6 +7,7 @@ int sum(int x, int y) {
     return x + y;
 }
 
+// Sub function
 int sub(int x, int y) {
     return x - y;
 }
