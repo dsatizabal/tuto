@@ -12,6 +12,7 @@ int sub(int x, int y) {
     return x - y;
 }
 
+// Mul function
 int mul(int x, int y) {
     return x * y;
 }
